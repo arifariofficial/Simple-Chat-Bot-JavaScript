@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot (JavaScript)/*
+!/Simple Chat Bot (JavaScript)/task/
+/Simple Chat Bot (JavaScript)/task/*
+!/Simple Chat Bot (JavaScript)/task/main.js
